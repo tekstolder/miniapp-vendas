@@ -1,0 +1,180 @@
+{
+  "coletas": [
+    {
+      "data": "2025-10-22T00:51:44.518Z",
+      "periodo": "20/10/2025 ~ 20/10/2025",
+      "totalPedidos": 92,
+      "totalValor": 4971.960000000001,
+      "detalhes": [
+        {
+          "loja": "SPEE GRUDIS 2",
+          "marketplace": "Shopee",
+          "totalPedidos": 37,
+          "valorTotal": 1963.14,
+          "pedidosValidos": 35,
+          "valorVendasValidas": 1821.53,
+          "pedidosCancelados": 2,
+          "valorVendasCanceladas": 141.61,
+          "clientes": 35,
+          "vendasPorCliente": 56.09
+        },
+        {
+          "loja": "MELI SCRAPLAB",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 13,
+          "valorTotal": 852.19,
+          "pedidosValidos": 12,
+          "valorVendasValidas": 813.69,
+          "pedidosCancelados": 1,
+          "valorVendasCanceladas": 38.5,
+          "clientes": 12,
+          "vendasPorCliente": 71.02
+        },
+        {
+          "loja": "SPEE LOJADAZINHA",
+          "marketplace": "Shopee",
+          "totalPedidos": 14,
+          "valorTotal": 701.37,
+          "pedidosValidos": 14,
+          "valorVendasValidas": 701.37,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 14,
+          "vendasPorCliente": 50.1
+        },
+        {
+          "loja": "MELI TEKSTOLDER",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 5,
+          "valorTotal": 295.08,
+          "pedidosValidos": 5,
+          "valorVendasValidas": 295.08,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 5,
+          "vendasPorCliente": 59.02
+        },
+        {
+          "loja": "SPEE SCRAPIX 2",
+          "marketplace": "Shopee",
+          "totalPedidos": 7,
+          "valorTotal": 291.66,
+          "pedidosValidos": 7,
+          "valorVendasValidas": 291.66,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 7,
+          "vendasPorCliente": 41.67
+        },
+        {
+          "loja": "SPEE SCRAPLAB",
+          "marketplace": "Shopee",
+          "totalPedidos": 4,
+          "valorTotal": 213.13,
+          "pedidosValidos": 4,
+          "valorVendasValidas": 213.13,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 4,
+          "vendasPorCliente": 53.28
+        },
+        {
+          "loja": "SPEE TEKSTOLDER",
+          "marketplace": "Shopee",
+          "totalPedidos": 3,
+          "valorTotal": 177.77,
+          "pedidosValidos": 3,
+          "valorVendasValidas": 177.77,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 3,
+          "vendasPorCliente": 59.26
+        },
+        {
+          "loja": "SPEE SCRAPIX 1",
+          "marketplace": "Shopee",
+          "totalPedidos": 2,
+          "valorTotal": 153.92,
+          "pedidosValidos": 2,
+          "valorVendasValidas": 153.92,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 2,
+          "vendasPorCliente": 76.96
+        },
+        {
+          "loja": "MELI SCRAPIX 2",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 2,
+          "valorTotal": 143,
+          "pedidosValidos": 2,
+          "valorVendasValidas": 143,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 2,
+          "vendasPorCliente": 71.5
+        },
+        {
+          "loja": "MELI GRUDIS 2",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 3,
+          "valorTotal": 130.02,
+          "pedidosValidos": 3,
+          "valorVendasValidas": 130.02,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 3,
+          "vendasPorCliente": 43.34
+        },
+        {
+          "loja": "MELI LOJADAZINHA",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 1,
+          "valorTotal": 78.17,
+          "pedidosValidos": 1,
+          "valorVendasValidas": 78.17,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 1,
+          "vendasPorCliente": 78.17
+        },
+        {
+          "loja": "MELI SCRAPIX 1",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 2,
+          "valorTotal": 62.49,
+          "pedidosValidos": 2,
+          "valorVendasValidas": 62.49,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 2,
+          "vendasPorCliente": 31.25
+        },
+        {
+          "loja": "MELI GRUDIS 1",
+          "marketplace": "Mercado Libre",
+          "totalPedidos": 1,
+          "valorTotal": 53.04,
+          "pedidosValidos": 1,
+          "valorVendasValidas": 53.04,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 1,
+          "vendasPorCliente": 53.04
+        },
+        {
+          "loja": "SPEE GRUDIS 1",
+          "marketplace": "Shopee",
+          "totalPedidos": 1,
+          "valorTotal": 37.09,
+          "pedidosValidos": 1,
+          "valorVendasValidas": 37.09,
+          "pedidosCancelados": 0,
+          "valorVendasCanceladas": 0,
+          "clientes": 1,
+          "vendasPorCliente": 37.09
+        }
+      ]
+    }
+  ]
+}

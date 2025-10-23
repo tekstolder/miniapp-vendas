@@ -1,0 +1,11 @@
+# ============================================
+# .dockerignore
+# ============================================
+# node_modules
+# npm-debug.log
+# .env
+# .git
+# .gitignore
+# README.md
+# screenshots/*
+# dados_vendas/*

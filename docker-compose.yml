@@ -1,0 +1,26 @@
+# ============================================
+# docker-compose.yml
+# ============================================
+# version: '3.8'
+
+# services:
+#   miniapp-vendas:
+#     build: .
+#     container_name: miniapp-vendas
+#     ports:
+#       - "3000:3000"
+#     environment:
+#       - PORT=3000
+#       - AUTH_TOKEN=${AUTH_TOKEN:-seu-token-secreto-aqui}
+#       - NODE_ENV=production
+#     volumes:
+#       - ./dados_vendas:/app/dados_vendas
+#       - ./screenshots:/app/screenshots
+#       - ./cookies.json:/app/cookies.json:ro
+#     restart: unless-stopped
+#     networks:
+#       - vendas-network
+# 
+# networks:
+#   vendas-network:
+#     driver: bridge

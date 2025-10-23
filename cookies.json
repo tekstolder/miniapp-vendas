@@ -1,0 +1,62 @@
+[
+  {
+    "name": "referer_source",
+    "value": "%7B%22value%22%3A%22Direct%22%7D",
+    "domain": ".upseller.com",
+    "path": "/",
+    "expires": 1761352108,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MYJ_MKTG_e35nb1nbtv",
+    "value": "JTdCJTdE",
+    "domain": ".upseller.com",
+    "path": "/",
+    "expires": 1792628908,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1761092911869.191722536289457265",
+    "domain": ".upseller.com",
+    "path": "/",
+    "expires": 1768868948,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "us_u",
+    "value": "8oMzerwzM%2BduH6joialy9nG8wXbKjZwBmt4TWiLU4b1Ofb2MYbgJKwHayO2D7nQTIBGsXo4%2FdQDAJkbo17h7pTUV%2BmiDhlB4k5f2RTzQ%2BGrL2EYZVx9QN0cHGXB7iNeMguU%2B4j26iLXQQvAx%2Fn%2BpcUJyCp2vVZWPpgaORVerRHfyH6Qq8yFWO66xZcEslo868BQgOPUj6LC8x%2FV%2BY5vskaC8KzbiSfj%2FXaHhkMD1qr%2BNxvjQ8MGZE0wiinhgMA7d%2FZQ3JPkjlWnnVJanqoTvkI91wRJRb22x6VLgrsu0uwKf6Zn%2BqZOq9B9uW7TZp%2FE3",
+    "domain": "app.upseller.com",
+    "path": "/",
+    "expires": 1762302547.883409,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MYJ_e35nb1nbtv",
+    "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI2YmIyOGI3NC0yYThhLTQwZGItOWY5NS00OTI3MTk2ODdhYTAlMjIlMkMlMjJ1c2VySWQlMjIlM0ExOTE4MjUlMkMlMjJwYXJlbnRJZCUyMiUzQTIxNTcxJTJDJTIyc2Vzc2lvbklkJTIyJTNBMTc2MTA5Mjk0Nzk1MCUyQyUyMm9wdE91dCUyMiUzQWZhbHNlJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EyJTdE",
+    "domain": ".upseller.com",
+    "path": "/",
+    "expires": 1792628947,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "D0244C045AD02FE532E97C4197775817",
+    "domain": "app.upseller.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
