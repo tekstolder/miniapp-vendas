@@ -246,6 +246,9 @@ app.get('/health', (req, res) => {
   res.status(200).send('OK');
 });
 
+// ✅ Rota raiz (para proxy ou testes externos)
+app.get('/', (req, res) => res.status(200).send('OK'));
+
 // Disparar coleta
 app.post('/api/coleta', autenticar, async (req, res) => {
   try {
